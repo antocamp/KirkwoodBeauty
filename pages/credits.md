@@ -3,7 +3,7 @@ layout: page
 title: Credits
 permalink: '/credits/'
 ---
-This project was created by Jillian Campbell, the writer, Antonio Campos, the technologist, and Jardon Scheiber, the producer. It was created to fulfill requirements for coursework in Introduction to Popular Culture. 
+This project was created by Jillian Campbell, the writer, Antonio Campos, the technologist, and Jardon Scheiber, the producer. Each member participated in photo collection on Kirkwood. Antonio handled the majority of the data interpretation, Jillian filled the website with image/collection descriptions, and Jardon completed everything in between. It was created to fulfill requirements for coursework in Introduction to Popular Culture. 
 
 Wax is a minimal computing ([minicomp](https://github.com/minicomp)) project led by [Marii Nyröp](http://marii.info/). The project is currently maintained by Marii Nyröp at New York University and [Alex Gil](https://github.com/elotroalex) at Columbia University Libraries. It uses open source libraries and frameworks including [Jekyll](https://jekyllrb.com), [IIIF](http://iiif.io), [OpenSeaDragon](https://openseadragon.github.io/), [Rake](https://ruby.github.io/rake/), and [ElasticLunr](http://elasticlunr.com/). Wax builds upon work by [Peter Binkley](https://github.com/pbinkley), [David Newbury](https://github.com/workergnome), and others.
 
