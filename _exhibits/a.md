@@ -1,6 +1,6 @@
 ---
 layout: exhibit
-title: 'Exhibit A: Inline Parallax Image'
+title: 'Exhibit A: Power of Protest'
 author: Jillian Campbell
 publish_date: 2023-04-27
 permalink: /exhibits/a/
