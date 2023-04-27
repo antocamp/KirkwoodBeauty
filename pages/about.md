@@ -7,6 +7,4 @@ For this project, we asked a question of social observation. We wondered- what i
 
 
 
-<a href="{{ '/img/wax_workflow.jpg' | absolute_url }}">
-  <img src="{{ '/img/wax_workflow.jpg' | absolute_url }}"/>
-</a>
+
