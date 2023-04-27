@@ -1,8 +1,8 @@
 ---
 layout: exhibit
 title: 'Exhibit A: Inline Parallax Image'
-author: Mihr 'Ali
-publish_date: 2018-11-15
+author: Jillian Campbell
+publish_date: 2023-04-27
 permalink: /exhibits/a/
 ---
 Exhibit A: Power of Protest
