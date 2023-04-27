@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /exhibits/
-title: Exhibit A: Power of Protest
+title: Featured Exhibits
 ---
 
 ![obj5_2](https://user-images.githubusercontent.com/131365205/234861286-f8e6a924-8068-40bf-b871-7ee0f4bdaa14.jpeg)
