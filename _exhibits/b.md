@@ -1,3 +1,4 @@
+---
 layout: exhibit
 title: 'Our Collaboration'
 author: Jillian Campbell
