@@ -20,7 +20,7 @@
 
 title:            'Kirkwood'
 description:      "What is the culture of Kirkwood and how does it ebb and flow throughout the week?"
-url:              ' https://antocamp.github.io'
+url:              'https://antocamp.github.io'
 baseurl:          '/KirkwoodBeauty'
 copyright:        'Jillian Campbell, Antonio Campos, and Jardon Scheiber'
 logo:             '/assets/logo.png'
